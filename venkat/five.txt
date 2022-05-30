@@ -1,5 +1,0 @@
-This is fifth file.
-
-modified in git
-
-THis is modified in fifth file
